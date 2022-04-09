@@ -1,6 +1,8 @@
-class Hello{
-public satic void main(String args[])
+class Hello
 {
-System.out.pritnln("Hell from admin");
+public static void main(String args[])
+{
+System.out.println("hello");
 }
 }
+
