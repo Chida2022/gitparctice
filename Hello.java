@@ -1,8 +1,8 @@
-class Hello
+ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("welocme java programming code");
+System.out.println("welocme java programming codemake ");
 }
 }
 
